@@ -8,5 +8,5 @@ vi /etc/sudoers
  # update the user created under root name as root looks like.
  ## Allow root to run any commands anywhere 
 root    ALL=(ALL)       ALL
-devops  ALL=(ALL)       ALL
+tse  ALL=(ALL)       ALL
  service sshd restart
